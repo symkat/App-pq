@@ -38,7 +38,7 @@ Kaitlyn Parkhurst (SymKat) _<symkat@symkat.com>_ ( Blog: [http://symkat.com/](ht
 
 # COPYRIGHT
 
-Copyright (c) 2022 the WebService::WsScreenshot ["AUTHOR"](#author), ["CONTRIBUTORS"](#contributors), and ["SPONSORS"](#sponsors) as listed above.
+Copyright (c) 2022 the App::pq ["AUTHOR"](#author), ["CONTRIBUTORS"](#contributors), and ["SPONSORS"](#sponsors) as listed above.
 
 # LICENSE
 

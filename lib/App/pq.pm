@@ -32,7 +32,7 @@ Kaitlyn Parkhurst (SymKat) I<E<lt>symkat@symkat.comE<gt>> ( Blog: L<http://symka
 
 =head1 COPYRIGHT
 
-Copyright (c) 2022 the WebService::WsScreenshot L</AUTHOR>, L</CONTRIBUTORS>, and L</SPONSORS> as listed above.
+Copyright (c) 2022 the App::pq L</AUTHOR>, L</CONTRIBUTORS>, and L</SPONSORS> as listed above.
 
 =head1 LICENSE
 
