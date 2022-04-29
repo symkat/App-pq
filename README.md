@@ -2,6 +2,12 @@
 
 App::pq - Like jq and gq, but with Perl
 
+# INSTALL
+
+```bash
+cpanm App::pq
+```
+
 # SYNOPSIS
 
 With no arguments, dump the JSON data structure from STDIN as a Perl data structure.
